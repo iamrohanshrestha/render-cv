@@ -10,6 +10,8 @@ cv:
     - network: GitHub
       username: iamrohanshrestha
   sections:
+    summary:
+      - Full-stack developer (frontend focused) with 3 years of experience, specializing in web and mobile development, building scalable, high-performance applications with intuitive user interfaces, smooth animations, and seamless user experiences.
     education:
       - institution: Tribhuvan University
         area: Computer Science and Information Technology
