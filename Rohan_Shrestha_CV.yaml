@@ -52,17 +52,11 @@ cv:
       - name: "[Form Builder](https://easyformbuilder.netlify.app/)"
         start_date: 2023-09
         end_date: 2023-11
-        summary: A Full Stack MERN app for building dynamic forms with drag and drop interface & to track and view the responses received in the created form.
-        highlights:
-          - MERN Stack, TypeScript, Tailwind CSS
-          - "[GitHub](https://github.com/iamrohanshrestha/form-builder)"
+        summary: An app for creating dynamic forms with drag-and-drop elements, form submission and response tracking, along with account management, profile picture upload and email notifications. Built using MERN Stack, TypeScript and Tailwind CSS. [GitHub](https://github.com/iamrohanshrestha/form-builder)
       - name: "[Task Planner](https://tasksplanner.vercel.app/)"
         start_date: 2022-12
         end_date: 2023-01
-        summary: A task planner app with Kanban Board, Calendar View, CRUD functionality, search, sorting and ordering, dark and light mode, lottie animations, authentication using NextAuth and database using Prisma, PlanetScale(hosting) and MySQL.
-        highlights:
-          - Next.js, Prisma, TypeScript, Tailwind CSS
-          - "[GitHub](https://github.com/iamrohanshrestha/task-planner)"
+        summary: A task management web app with Kanban board, calendar view for task visualization, authentication, lottie animations, dark/light mode, search, sorting and ordering. Built with Next.js, Prisma, TypeScript and TailwindCSS. [GitHub](https://github.com/iamrohanshrestha/task-planner)
     skills:
       - label: Programming Languages
         details: JavaScript, TypeScript, Python, SQL
