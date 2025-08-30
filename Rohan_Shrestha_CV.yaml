@@ -11,7 +11,7 @@ cv:
       username: iamrohanshrestha
   sections:
     summary:
-      - Full-stack developer (frontend focused) with 3 years of experience, specializing in web and mobile development, building scalable, high-performance applications with intuitive user interfaces, smooth animations, and seamless user experiences.
+      - Full-stack developer (frontend focused) with over 3 years of experience, specializing in web and mobile development, building scalable, high-performance applications with intuitive user interfaces, smooth animations, and seamless user experiences.
     education:
       - institution: Tribhuvan University
         area: Computer Science and Information Technology
@@ -29,6 +29,10 @@ cv:
         location: Kathmandu, Nepal
         summary:
         highlights:
+          - Led end-to-end development of **[TravelNepal+](https://travelnepalplus.com/)**, a centralized travel booking platform, featuring flight, bus, cable car, hotel and vehicle rental bookings, along with rich information about travel and trekking destinations.
+          - Built **queue management systems** for banks, hospitals and government agencies, with detailed token reports and charts.
+          - Developed admin dashboard for **[DigiBuzz](https://web.digibuzznp.com/)**, a platform for managing and monitoring digital advertisements on **200+ public buses in Kathmandu**, featuring time, location and route specific advertisements.
+          - Implemented CI/CD pipelines and automated build, test, and deployment workflows using GitHub Actions.
       - company: Inflancer Technology
         position: React Native Developer
         start_date: 2024-01
@@ -36,8 +40,10 @@ cv:
         location: Lalitpur, Nepal
         summary:
         highlights:
-          - Successfully developed and launched cross-platform mobile applications leveraging React Native, ensuring compatibility and optimal performance across iOS and Android platforms.
-          - Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Inflancer’s Android and iOS mobile app.
+          - "Developed and launched cross-platform mobile apps using React Native and Expo: **Inflancer ([App Store](https://apps.apple.com/app/inflancer/id6615068293), [Play Store](https://play.google.com/store/apps/details?id=com.inflancer.app)), a social media app** and **Goeasybazar ([App Store](https://apps.apple.com/app/goeasybazar/id6499415669), [Play Store](https://play.google.com/store/apps/details?id=com.goeasybazars)), an e-commerce app** for the Portuguese market."
+          - Built smooth, performant animations and gesture-driven interactions using React Native Reanimated and styled dynamic, reusable components with Styled Components for a consistent and maintainable design system.
+          - Integrated Firebase Cloud Messaging (FCM) for push notifications and Socket.io for real-time communication.
+          - Published and managed app releases, handling deployment and updates on both Google Play Store and Apple App Store.
       - company: Ayata Incorporation
         position: Frontend Developer
         start_date: 2023-01
@@ -45,9 +51,11 @@ cv:
         location: Kathmandu, Nepal
         summary:
         highlights:
-          - Designed, developed, and maintained admin dashboards and CMS primarily using React, Tailwind, TypeScript, Chart.js, TanStack Table and React Query.
-          - Played a pivotal role in the development of a dynamic membership management system with integrated event registrations and membership functionalities.
-          - Built and shipped mobile responsive Next.js websites collaborating with designers and other developers.
+          - Developed **[SpeakUp Nepal](https://speakupnepal.org)****, Nepal's first e-petition platform**, empowering users to create petitions, support causes and share their opinions on social and political issues, attracting **30,000+ users** and **100,000+ followers across platforms**.
+          - Built with Next.js, focusing on mobile responsiveness, SEO best practices and implemented internationalization (i18n).
+          - Designed and developed **[Hamro Members](https://hamromembers.com)****, a membership management system** for clubs, associations and organizations to streamline member registration, event management and communication via SMS, email and notifications.
+          - Built dynamic membership forms, integrated payment gateways and enabled customizable association websites with unique subdomains, logos and branding.
+          - Contributed to the development of **Zunun, a Learning Management System (LMS)** for educational institutions in Guatemala, featuring course management, assessments, grading and discussions for admins, teachers and students.
     projects:
       - name: "[Form Builder](https://easyformbuilder.netlify.app/)"
         start_date: 2023-09
@@ -61,7 +69,7 @@ cv:
       - label: Programming Languages
         details: JavaScript, TypeScript, Python, SQL
       - label: Libraries & Frameworks
-        details: Next.js, React, Astro, Expo, React Native, Nest.js, Express.js, Tailwind, Redux
+        details: Next.js, React, Astro, Expo, React Native, Nest.js, Express.js, Tailwind, Redux, TanStack, GSAP
       - label: Tools & Platforms
         details: Git, Github, Figma, Firebase
 design:
